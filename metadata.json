@@ -1,0 +1,6 @@
+{
+  "name": "FinSecure",
+  "description": "An offline-first personal finance manager with secure on-device storage, custom AES-encrypted backups, and isolated spend summaries for Gemini AI advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
